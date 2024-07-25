@@ -1,4 +1,3 @@
-/* styles.css */
 body {
     font-family: Arial, sans-serif;
 }
@@ -36,11 +35,17 @@ nav ul li a:hover {
 }
 
 section {
-    margin-top: 60px; /* Para evitar que el contenido se esconda detrás del menú fijo */
+    margin-top: 60px;
     padding: 20px;
-    height: 100vh; /* Altura de la sección igual a la altura de la ventana */
+    height: 100vh;
 }
 
-#section1 { background-color: #f4f4f4; }
-#section2 { background-color: #e4e4e4; }
-#section3 { background-color: #d4d4d4; }
+#section1 { 
+    background-color: whitesmoke;
+}
+#section2 {
+    background-color: #e4e4e4;
+}
+#section3 {
+    background-color: #d4d4d4;
+}
